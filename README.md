@@ -11,10 +11,13 @@
 </h2>
 <br>
 
-<picture><img align="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" height=130px width = 125px></picture> 
-- Average CSE Student
-- I Have No idea What Im Doing
-- Learning Stuff...
+<picture><img align="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" height=220px width = 215px></picture>
+
+  - Average CSE Student
+  - I Have No idea What Im Doing
+  - Learning Stuff...
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=npg54isu5k2dr06msf7clk91u&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=npg54isu5k2dr06msf7clk91u&redirect=true)
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </picture>
