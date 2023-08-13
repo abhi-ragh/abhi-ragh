@@ -15,7 +15,6 @@
 - Average CSE Student
 - I Have No idea What Im Doing
 - Learning Stuff...
-- Interested in Front-End
 
 <br>
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </picture>
