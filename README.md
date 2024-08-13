@@ -1,21 +1,39 @@
-<h1 align="center"><picture><img align="center" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47mrtj4n9r9kn41wl4k0jjvqyw4srltpmqb6valcjw&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Hello There!"></picture>
+<div align="center">
+  <img height="200" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47mrtj4n9r9kn41wl4k0jjvqyw4srltpmqb6valcjw&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
-<h2 align="center">
+###
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 	
+<h3 align="center">Myself Abhiragh<br>Here To Hunt Some Bugs</h3>
 
-[![Linkedin: Abhiragh](https://img.shields.io/badge/-Abhiragh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhiragh-a-r-732776225/)](https://www.linkedin.com/in/abhiragh-a-r-732776225/)
-[![GitHub n0nsense-404](https://img.shields.io/github/followers/n0nsense-404?label=follow&style=social)](https://github.com/n0nsense-404)
+###
 
+<h2 align="left">About me</h2>
 
-</h2>
-<br>
+###
 
-<picture><img align="left" src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" height=220px width = 215px></picture>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Dev<br>🎯 Goals: to not starve<br>🎲 Fun fact: { wasted 3 hours trying to find a fun fact about myself }</p>
 
-  - Your Friendly Neighbourhood CS Student
-  - I Have No idea What Im Doing
-  - Learning...
+###
 
-<br>
-<picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </picture>
+<h2 align="left">Experience With</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
