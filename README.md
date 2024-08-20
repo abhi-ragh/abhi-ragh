@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Web Dev<br>🎯 Goals: to not starve<br>🎲 Fun fact: { wasted 3 hours trying to find a fun fact about myself }</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 No Idea What to do<br>🎯 Goals: to not starve<br>🎲 Fun fact: { wasted 3 hours trying to find a fun fact about myself }</p>
 
 ###
 
