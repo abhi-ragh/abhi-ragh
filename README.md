@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Btech Undergraduate<br>📚 Exploring Technologies<br>🎯 Proficient in Python<br>🎲 Creating Fun Things</p>
+<p align="left"> + Exploring Technologies<br> - Out There Doing Dumb Sh*t <br> + Creating Fun Things (The Process is no Fun at all) </p>
 
 ###
 
