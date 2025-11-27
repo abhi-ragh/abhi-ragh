@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"> + Exploring Technologies<br> - Out There Doing Dumb Sh*t <br> + Creating Fun Things (The Process is no Fun at all) </p>
+<p align="left"> + Exploring Technologies<br> - Out here building and learning <br> + Creating Fun Things </p>
 
 ###
 
