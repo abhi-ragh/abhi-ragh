@@ -12,9 +12,10 @@
 
 ### Tech Stack
 - **Languages:** Python, JavaScript, C#, Bash
+- **Frontend:** HTML, CSS, React
 - **Backend:** FastAPI, Django, Flask
 - **DevOps:** Docker, GitLab CI/CD, AWS (EC2, S3, Lambda)
-- **Databases:** PostgreSQL, MySQL, SQLite, Redis
+- **Databases:** PostgreSQL, MySQL, SQLite
 
 ### Let's Connect
 - Email: abhiragh0@gmail.com
