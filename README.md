@@ -4,23 +4,24 @@
 
 ###
 
-<h3 align="center">Myself Abhiragh<br>Breaking Pipelines and Hunting Bugs</h3>
+<h3 align="center">Myself Abhiragh</h3>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="center"> Developer | Python | Docker | AWS | Linux</h3>
+
+### Tech Stack
+- **Languages:** Python, JavaScript, C#, Bash
+- **Backend:** FastAPI, Django, Flask
+- **DevOps:** Docker, GitLab CI/CD, AWS (EC2, S3, Lambda)
+- **Databases:** PostgreSQL, MySQL, SQLite, Redis
+
+### Let's Connect
+- Email: abhiragh0@gmail.com
 
 ###
 
-<p align="left"> + Exploring Technologies<br> - Out here building and learning <br> + Creating Fun Things </p>
-
-###
-
-<h2 align="left">Experience With</h2>
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
