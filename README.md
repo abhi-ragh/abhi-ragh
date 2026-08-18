@@ -12,10 +12,6 @@
   Infrastructure & Automation
 </p>
 
-<p align="center">
-  📫 abhiragh0@gmail.com
-</p>
-
 ---
 
 <div align="center">
